@@ -34,7 +34,7 @@ git clone https://github.com/notsuhani/traffic-light.git
 Open the index.html file in your web browser.
 
 <h2>Files</h2>
-index.html: The main structure of the traffic light.
+index.html: The main structure of the traffic light.<br>
 
 styles.css: The CSS file for styling the traffic light and adding animations.
 
