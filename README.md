@@ -14,11 +14,11 @@ JavaScript to control the timing and color transitions of the traffic lights.
 <h2>How It Works</h2>
 The traffic light system changes colors automatically:
 
-<h3><i>Red</i>: Stays on for a few seconds.</h3>
+<i>Red</i>: Stays on for a few seconds.
 
-<h3><i>Green</i>: Lights up after Red for a few seconds.</h3>
+<i>Green</i>: Lights up after Red for a few seconds.
 
-<h3><i>Yellow</i>: Displays for a short time before transitioning back to Red.</h3>
+<i>Yellow</i>: Displays for a short time before transitioning back to Red.
 
 The lights cycle in the above sequence indefinitely, simulating a real traffic light.
 
