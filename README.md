@@ -1,5 +1,3 @@
-# Simple-Traffic-Light
-
 <h1>Traffic Light System</h1>
 This project is a Traffic Light System built using HTML, CSS, and JavaScript. It simulates the functioning of a basic traffic light with the usual colors (Red, Yellow, Green) cycling in a loop.
 
@@ -16,11 +14,11 @@ JavaScript to control the timing and color transitions of the traffic lights.
 <h2>How It Works</h2>
 The traffic light system changes colors automatically:
 
-<h3><i>Red</i>:</h3>Stays on for a few seconds.
+<h3><i>Red</i>: Stays on for a few seconds.</h3>
 
-<h3><i>Green</i>:</h3>Lights up after Red for a few seconds.
+<h3><i>Green</i>: Lights up after Red for a few seconds.</h3>
 
-<h3><i>Yellow</i>:</h3>Displays for a short time before transitioning back to Red.
+<h3><i>Yellow</i>: Displays for a short time before transitioning back to Red.</h3>
 
 The lights cycle in the above sequence indefinitely, simulating a real traffic light.
 
