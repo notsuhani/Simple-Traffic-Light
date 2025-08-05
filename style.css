@@ -1,0 +1,51 @@
+body{
+    background: rgb(114, 114, 226);
+    text-align: center;
+    color: whitesmoke;
+}
+
+.traffic{
+    height: 300px;
+    background: black;
+    width: 130px;
+    border-radius: 20px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.light{
+    background: white;
+    height: 74px;
+    width: 74px;
+    border-radius: 50%;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.pole{
+    width: 30px;
+    height: 200px;
+    background: darkgray;
+    margin: 0 auto;
+}
+
+.base{
+    width: 100px;
+    height: 25px;
+    background: black;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.red.active{
+    background: red;
+}
+
+.yellow.active{
+    background: yellow;
+}
+
+.green.active{
+    background: green;
+}
