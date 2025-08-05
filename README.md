@@ -30,7 +30,7 @@ Clone this repository to your local machine.
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/traffic-light.git
+git clone https://github.com/notsuhani/traffic-light.git
 Open the index.html file in your web browser.
 
 Files
