@@ -33,17 +33,14 @@ Edit
 git clone https://github.com/notsuhani/traffic-light.git
 Open the index.html file in your web browser.
 
-Files
+<h2>Files</h2>
 index.html: The main structure of the traffic light.
 
 styles.css: The CSS file for styling the traffic light and adding animations.
 
 script.js: JavaScript file that controls the traffic light’s color changes.
 
-How to Customize
+<h2>How to Customize</h2>
 Modify the timings of each light change in the script.js file.
 
 Change the design by adjusting styles in the styles.css file.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
